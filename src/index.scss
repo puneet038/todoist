@@ -1,0 +1,22 @@
+.header
+{
+  width:auto;
+  height: 60px;
+  border-bottom: 2px solid black;
+  background-color: chartreuse;
+}
+section
+{
+  display: flex;
+  margin: auto;
+  max-width: 922px;
+}
+.sidebar
+{
+  user-select: none;
+  width: 266px;
+  height:100vh;
+  padding-top: 75px;
+  border-right: 1px solid black;
+  background-color: #fafafa;
+}
